@@ -1,0 +1,11 @@
+//
+//  App.xcconfig
+//  Metalt
+//
+//  Created by Habib Alamin on 03/04/2018.
+//  Copyright © 2018 Alaminium. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+include? "Developer.xcconfig"
